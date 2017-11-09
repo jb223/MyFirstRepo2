@@ -1,3 +1,4 @@
+import time
 ### Source: https://i.pinimg.com/736x/f8/86/f9/f886f91b186f28e7ba014a0392cc15e1--family-reunions-family-history.jpg
 
 print("Write a noun")
@@ -67,8 +68,7 @@ print("write a noun")
 noun10= input()
 
 
-
-
+time.sleep(100)
 
 
 
